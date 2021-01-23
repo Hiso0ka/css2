@@ -1,0 +1,49 @@
+
+
+
+h1 {
+    background-color: rgb(213, 242, 243);
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    height: 100px;
+    margin-top: -5px;
+    margin-bottom: -5px; 
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.imagenesvarias {
+    text-align: center;
+}
+
+.bordes {
+    text-align: center;
+    border-top: blue 1em solid;
+    border-bottom: blue 1em solid;
+    
+}
+
+
+
+.imagenfondo {
+    background-image: url(img/valencia_antigua.jpg);
+    width: 60%;
+}
+
+p span {
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+
+
+.img {
+    background-color: rgb(213, 242, 243);
+    text-align: center;    
+}
